@@ -66,6 +66,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swap-Nova&langs_count=6&theme=tokyonight"></a>
 
 <br>
+<br>
 <strong> Note: </strong> Top Langugages is only a metric of the language my public code consists of and so it does not reflect experience or skill level.
 
 <br>

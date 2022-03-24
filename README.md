@@ -62,8 +62,8 @@
 <br>
 <a href="https://github-readme-stats.vercel.app/api?username=swap-nova&theme=radical"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=swap-nova&theme=radical"></a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Swap-Nova&langs_count=6&theme=tokyonight">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swap-Nova&langs_count=6&theme=tokyonight"></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Swap-Nova&langs_count=8&theme=tokyonight">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swap-Nova&langs_count=8&theme=tokyonight"></a>
 
 <br>
 <br>

@@ -60,10 +60,10 @@
 ## 📊 My GitHub Stats
 
 <br>
-<a href="https://github-readme-stats.vercel.app/api?username=swap-nova&theme=radical"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=swap-nova&theme=radical"></a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Swap-Nova&langs_count=8&theme=tokyonight">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swap-Nova&langs_count=8&theme=tokyonight"></a>
+<a href="https://github-readme-stats.vercel.app/api?username=Swap-Nova&theme=vue-dark&show_icons=true"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Swap-Nova&theme=vue-dark&show_icons=true"></a> 
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Swap-Nova&layout=compact&theme=react">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swap-Nova&layout=compact&theme=react"></a>
 
 <br>
 <br>

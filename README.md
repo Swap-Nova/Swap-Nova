@@ -62,6 +62,8 @@
 <br>
 <a href="https://github-readme-stats.vercel.app/api?username=Swap-Nova&theme=vue-dark&show_icons=true"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Swap-Nova&theme=vue-dark&show_icons=true"></a> 
+<br>
+<br>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Swap-Nova&layout=compact&theme=react">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swap-Nova&layout=compact&theme=react"></a>
 

@@ -30,7 +30,7 @@
 
 <h2 align="center"> ❄ Connect with me </h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/swapnil-sinha-07392b1b7/" target="_blank"> 
+<a href="https://www.linkedin.com/in/swapnil-sinha-07392b1b7/" {:target="_blank" rel="noopener"} > 
 <img width="42 px" height="44 px" src="Images/Linkedin Icon.png"> </a>
 <a href="https://www.instagram.com/swapnil_nova/" target="_blank"> 
 <img width="42 px" height="44 px" src="Images/Instagram Icon.png"> </a> 

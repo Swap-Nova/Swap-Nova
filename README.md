@@ -51,8 +51,8 @@
 <br>
 <!-- GitHub Streak -->
 <p align="center">
-<a href="http://github-readme-streak-stats.herokuapp.com?user=swap-nova&theme=gotham&date_format=M%20j%5B%2C%20Y%5D">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=swap-nova&theme=gotham&date_format=M%20j%5B%2C%20Y%5D"></a>
+<a href="http://github-readme-streak-stats.herokuapp.com/?user=swap-nova&theme=dark-smokye&date_format=M%20j%5B%2C%20Y%5D">
+<img src="http://github-readme-streak-stats.herokuapp.com/?user=swap-nova&theme=dark-smoky&date_format=M%20j%5B%2C%20Y%5D"></a>
 </p>
 
 <hr>

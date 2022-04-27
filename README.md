@@ -68,7 +68,6 @@
   <br>
   </p>
 <br>
-<br>
 <strong> Note: </strong> Top Langugages is only a metric of the language my public code consists of and so it does not reflect experience or skill level.
 
 <br>

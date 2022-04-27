@@ -41,7 +41,7 @@
 
 <br>
 
-<h2 align="left"> 🚀 If you are more curious about me  </h2>
+<h2 align="center"> 🚀 If you are more curious about me  </h2>
 <p align="center">
 <a href="https://medium.com/@swapnilsinha81" target="_blank">
 <img src="Images/Medium Icon.png" align="left" width="46"> </a>

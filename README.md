@@ -59,20 +59,21 @@
 
 ## 📊 My GitHub Stats
 
-<br>
-<a href="https://github-readme-stats.vercel.app/api?username=Swap-Nova&theme=vue-dark&show_icons=true"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Swap-Nova&theme=vue-dark&show_icons=true"></a> 
-<br>
-<br>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Swap-Nova&langs_count=10&layout=compact&theme=react">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swap-Nova&langs_count=10&layout=compact&theme=react"></a>
-
+<p align="center">
+  <br>
+<!--   GitHub Stats -->
+    <a href="https://github.com/Swap-Nova/github-readme-stats"><img alt="Swap-Nova's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Swap-Nova&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<!--   Top Langugages  -->
+  <a href="https://github.com/Swap-Nova/github-readme-stats"><img alt="Swap_Nova's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swap-Nova&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br>
+  </p>
 <br>
 <br>
 <strong> Note: </strong> Top Langugages is only a metric of the language my public code consists of and so it does not reflect experience or skill level.
 
 <br>
 <br>
+
 <!-- GitHub Activity Graph -->
 <p align="center">
 <a href="https://activity-graph.herokuapp.com/graph?username=Swap-Nova&theme=react-dark">

@@ -30,11 +30,11 @@
 
 <h2 align="center"> ❄ Connect with me </h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/swapnil-sinha-07392b1b7/" target="_blank" rel="noopener" > 
+<a href="https://www.linkedin.com/in/swapnil-sinha-07392b1b7/" target="_blank" rel="noopener noreferrer" > 
 <img width="42" height="44" src="Images/Linkedin Icon.png"> </a>
-<a href="https://www.instagram.com/swapnil_nova/" target="_blank"> 
+<a href="https://www.instagram.com/swapnil_nova/" target="_blank" rel="noopener noreferrer"> 
 <img width="42" height="44" src="Images/Instagram Icon.png"> </a> 
-<a href="https://twitter.com/Swapnil21566503" target="_blank">
+<a href="https://twitter.com/Swapnil21566503" target="_blank" rel="noopener noreferrer">
 <img width="42 px" height="44" src="Images/Twitter.png"> </a>
 </p>
 
@@ -43,7 +43,7 @@
 
 <h2 align="center"> 🚀 If you are more curious about me  </h2>
 <p align="center">
-<a href="https://medium.com/@swapnilsinha81" target="_blank">
+<a href="https://medium.com/@swapnilsinha81" target="_blank" rel="noopener noreferrer">
 <img src="Images/Medium Icon.png" align="left" width="46"> </a>
 <h3> <i>Do read my blog to know more about my journey as a programmer and my future ambition.</h3></i>
 </p>

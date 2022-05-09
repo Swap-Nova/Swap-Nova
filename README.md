@@ -33,9 +33,7 @@
 <a href="https://www.linkedin.com/in/swapnil-sinha-07392b1b7/" target="_blank" rel="noopener noreferrer" > 
 <img width="42" height="44" src="Images/Linkedin Icon.png"> </a>
 <a href="https://www.instagram.com/swapnil_nova/" target="_blank" rel="noopener noreferrer"> 
-<img width="42" height="44" src="Images/Instagram Icon.png"> </a> 
-<a href="https://twitter.com/Swapnil21566503" target="_blank" rel="noopener noreferrer">
-<img width="42 px" height="44" src="Images/Twitter.png"> </a>
+<img width="42" height="44" src="Images/Instagram Icon.png"> </a>
 </p>
 
 

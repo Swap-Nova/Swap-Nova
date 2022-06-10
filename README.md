@@ -1,4 +1,4 @@
-<h1 align="center">こんにちは<img src="Images/wave.gif" width="30px" height="auto">!! I'm Swapnil | aka First Thinker  </h1>
+<h1 align="center">こんにちは<img src="Images/wave.gif" width="30px" height="44">!! I'm Swapnil | aka First Thinker  </h1>
 
 ### I'm a fellow Programmer, working on building projects & improving my skills !!
 - 👨‍💻 I'm presently working on enhancing my skills in Web Development.

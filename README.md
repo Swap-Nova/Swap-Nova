@@ -14,7 +14,7 @@
 <hr>
 <h2 align="center"> 💻 Languages and Tools </h2>
 <p align="center">
-<img alt="c programming" width="38px" height="44" src="Images/C.png">
+<img alt="c programming" width="38px" height="44" src="Images/C Logo.png">
 <img alt="c++" width="40" height="44" src="Images/C++.png ">
 <img alt="python" width="40" height="44" src="Images/python.png">
 <img alt="html" width="45" height="44" src="Images/html.png">

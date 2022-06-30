@@ -1,18 +1,15 @@
-<h1 align="center">こんにちは<img src="Images/wave.gif" width="30px" height="44">!! I'm Swapnil | aka First Thinker  </h1>
+<h1 align="center">Hey there, I'm Swapnil | aka First Thinker <img src="Images/wave.gif" width="30px" height="42"> </h1>
 
-### I'm a fellow Programmer, working on building projects & improving my skills !!
-- 👨‍💻 I'm presently working on enhancing my skills in Web Development.
-- 💻 I'm also learning Data Structures side by side & improving my knowledge in the field of AI-ML !!
+### One Step at a Time 🚀
 
-- 🤓 So, in a nutshell, I'm a maniac trying to learn as much as feasible!
+- 👨‍💻 I'm presently working on enhancing my skills as a Developer.
+- 💻 I'm also learning Data Structures side by side.
 - ⚡ Fun Fact: I love to code while drinking coffee & listening to music. 
-
-- 🥅 2022 Aim: Be a full stack developer and be proficient in Data Structures to work as an Intern to attain field experience.
-- 🌠 I Endeavour to build projects that help people and make the world a better place.  
+- 🥅 Aim: To be a full stack developer & to build projects that can make world a better place.
 - 📪 You can reach me through: swapnilsinha81@gmail.com
 
 <hr>
-<h2 align="center"> 💻 Languages and Tools </h2>
+<h2 align="center"> ⚙️ Technologies </h2>
 <p align="center">
 <img alt="c programming" width="38px" height="44" src="Images/C Logo.png">
 <img alt="c++" width="40" height="44" src="Images/C++.png ">
@@ -28,20 +25,10 @@
 
 <br>
 
-<h2 align="center"> ❄ Connect with me & do read my Blogs</h2>
-<p align="center">
-<a href="https://www.linkedin.com/in/swapnil-sinha-07392b1b7/" target="_blank" rel="noopener noreferrer" > 
-<img width="42" height="44" src="Images/Linkedin Icon.png"> </a>
-<a href="https://www.instagram.com/swapnil_nova/" target="_blank" rel="noopener noreferrer"> 
-<img width="42" height="44" src="Images/Instagram Icon.png"> </a>
-<a href="https://medium.com/@swapnilsinha81" target="_blank" rel="noopener noreferrer">
-<img width="42" height="44" src="Images/Medium Icon.png"> </a>
-</p>
-<br>
 <!-- GitHub Streak -->
 <p align="center">
-<a href="http://github-readme-streak-stats.herokuapp.com/?user=swap-nova&theme=dark-smokye&date_format=M%20j%5B%2C%20Y%5D">
-<img src="http://github-readme-streak-stats.herokuapp.com/?user=swap-nova&theme=dark-smoky&date_format=M%20j%5B%2C%20Y%5D"></a>
+<a href="http://github-readme-streak-stats.herokuapp.com/?user=swap-nova&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D">
+<img src="http://github-readme-streak-stats.herokuapp.com/?user=swap-nova&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D"></a>
 </p>
 
 <hr>
@@ -74,3 +61,12 @@
 <img src="https://komarev.com/ghpvc/?username=Swap-Nova&label=PROFILE+VIEWS&style=flat-square&color=red"> </a>
 <a href="https://img.shields.io/github/followers/Swap-Nova?label=followers&style=social">
 <img src="https://img.shields.io/github/followers/Swap-Nova?label=followers&style=social"> </a>
+
+
+### ❄️ Reach Out to Me</h2>
+<a href="https://www.linkedin.com/in/swapnil-sinha-07392b1b7/" target="_blank" rel="noopener noreferrer" > 
+<img width="27" height="29" src="Images/Linkedin Icon.png"> </a>
+<a href="https://www.instagram.com/swapnil_nova/" target="_blank" rel="noopener noreferrer"> 
+<img width="27" height="29" src="Images/Instagram Icon.png"> </a>
+<a href="https://medium.com/@swapnilsinha81" target="_blank" rel="noopener noreferrer">
+<img width="27" height="29" src="Images/Medium Icon.png"> </a>

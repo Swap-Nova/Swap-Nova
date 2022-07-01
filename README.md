@@ -1,10 +1,10 @@
 ## Hey there, I'm Swapnil | First Thinker 🖖
 ### 🚀 "Keep walking the walk, one step at a time" 
 
-- 🎳 I'm presently working on enhancing my skills as a Developer.
+- ⌛ I'm presently working on enhancing my skills as a Developer.
 - 🧩 I'm also learning Data Structures side by side.
-- ☕🎵 Fun Fact: I love to code while drinking coffee & listening to music  
-- ⌛ Endeavour to be a full stack developer & to build projects that can make world a better place.
+- ☕ Fun Fact: I love to code while drinking coffee & listening to music 🎵  
+- 🎳 Endeavour to be a full stack developer & to build projects that can make world a better place.
 - 📪 You can reach me through: swapnilsinha81@gmail.com
 
 <h2 align="center"> 💻 Technologies </h2>

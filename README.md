@@ -15,11 +15,10 @@
 <img alt="C++" width="40" height="44" src="Images/C++.png ">
 <img alt="python" width="40" height="44" src="Images/python.png">
 <img alt="javascript" width="40" height="44" src="Images/js.png">
-<img alt="bootstrap" width="40" height="44" src="Images/bootstrap.png">
-<img alt="GitHub" width="40" height="44" src="Images/Github Icon.png">
+<img alt="bootstrap" width="40" height="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
 <img alt="Git" width="45" height="44" src="Images/Git.png">
-<img alt="Alexa" width="45" height="44" src="Images/Alexa.png">
-<img alt="React JS" width="42" height="44" src="Images/react.png"> 
+<img alt="Alexa" width="45" height="48" src="Images/Alexa.png">
+<img alt="React JS" width="42" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> 
 <img alt="Google Cloud" width="45" height="44" src="Images/Google Cloud.png">
 <img alt="Flutter" width="45" height="44" src="Images/Flutter.png">
 <img alt="Dart" width="45" height="44" src="Images/Dart.png">
@@ -29,7 +28,8 @@
 <h2 align="center">📱 Softwares </h2>
 <p align="center">
 <img alt="Figma" width="45" height="44" src="Images/Figma.png">
-<img alt="Photoshop" width="45" height="44" src="Images/Photoshop.jpg">
+<img alt="Photoshop" width="45" height="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
+<img alt="Heroku" width="45" height="44" src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667">
 </p>
 <br>
 
@@ -75,8 +75,10 @@
 <a href="https://www.linkedin.com/in/swapnil-sinha-07392b1b7/" target="_blank" rel="noopener noreferrer" > 
 <img width="27" height="29" src="Images/Linkedin Icon.png"> </a>
 <a href="https://www.freecodecamp.org/supernova_81" target="_blank" rel="noopener noreferrer"> 
-<img width="32" height="29" src="Images/Freecodecamp.jpg"> </a>
+<img width="34" height="29" src="Images/Freecodecamp.jpg"> </a>
 <a href="https://www.codechef.com/users/swapnil_81" target="_blank" rel="noopener noreferrer"> 
 <img width="32" height="29" src="Images/Code Chef.png"> </a>
+<a href="https://auth.geeksforgeeks.org/user/swapnilsinha81/practice/" target="_blank" rel="noopener noreferrer"> 
+<img width="30" height="29" src="https://pbs.twimg.com/profile_images/1476085383469445124/1ZRVN-QB_400x400.jpg"> </a>
 <a href="https://medium.com/@swapnilsinha81" target="_blank" rel="noopener noreferrer">
 <img width="29" height="29" src="Images/Medium Icon.png"> </a>

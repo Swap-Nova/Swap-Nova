@@ -1,27 +1,36 @@
-## Hey there, I'm Swapnil | First Thinker 👋 
+## Hey there, I'm Swapnil | First Thinker 🖖
 ### 🚀 "Keep walking the walk, one step at a time" 
 
-- I'm presently working on enhancing my skills as a Developer.
-- I'm also learning Data Structures side by side.
-- Fun Fact: I love to code while drinking coffee & listening to music ☕🎵 
-- Endeavour to be a full stack developer & to build projects that can make world a better place.
-- You can reach me through: 📪 swapnilsinha81@gmail.com
+- 🎳 I'm presently working on enhancing my skills as a Developer.
+- 🧩 I'm also learning Data Structures side by side.
+- ☕🎵 Fun Fact: I love to code while drinking coffee & listening to music  
+- ⌛ Endeavour to be a full stack developer & to build projects that can make world a better place.
+- 📪 You can reach me through: swapnilsinha81@gmail.com
 
-<hr>
-<h2 align="center"> ⚙️ Technologies </h2>
+<h2 align="center"> 💻 Technologies </h2>
 <p align="center">
 <img alt="c programming" width="38px" height="44" src="Images/C Logo.png">
-<img alt="c++" width="40" height="44" src="Images/C++.png ">
-<img alt="python" width="40" height="44" src="Images/python.png">
 <img alt="html" width="45" height="44" src="Images/html.png">
 <img alt="css" width="45" height="44" src="Images/css-3.png">
-<img alt="bootstrap" width="40" height="44" src="Images/bootstrap.png">
+<img alt="C++" width="40" height="44" src="Images/C++.png ">
+<img alt="python" width="40" height="44" src="Images/python.png">
 <img alt="javascript" width="40" height="44" src="Images/js.png">
-<img alt="React JS" width="42" height="44" src="Images/react.png"> 
+<img alt="bootstrap" width="40" height="44" src="Images/bootstrap.png">
 <img alt="GitHub" width="40" height="44" src="Images/Github Icon.png">
+<img alt="Git" width="45" height="44" src="Images/Git.png">
+<img alt="Alexa" width="45" height="44" src="Images/Alexa.png">
+<img alt="React JS" width="42" height="44" src="Images/react.png"> 
 <img alt="Google Cloud" width="45" height="44" src="Images/Google Cloud.png">
+<img alt="Flutter" width="45" height="44" src="Images/Flutter.png">
+<img alt="Dart" width="45" height="44" src="Images/Dart.png">
 </p>
+<br>
 
+<h2 align="center">📱 Softwares </h2>
+<p align="center">
+<img alt="Figma" width="45" height="44" src="Images/Figma.png">
+<img alt="Photoshop" width="45" height="44" src="Images/Photoshop.jpg">
+</p>
 <br>
 
 <!-- GitHub Streak -->
@@ -65,7 +74,9 @@
 ### ❄️ Reach Out to Me</h2>
 <a href="https://www.linkedin.com/in/swapnil-sinha-07392b1b7/" target="_blank" rel="noopener noreferrer" > 
 <img width="27" height="29" src="Images/Linkedin Icon.png"> </a>
-<a href="https://www.instagram.com/swapnil_nova/" target="_blank" rel="noopener noreferrer"> 
-<img width="27" height="29" src="Images/Instagram Icon.png"> </a>
+<a href="https://www.freecodecamp.org/supernova_81" target="_blank" rel="noopener noreferrer"> 
+<img width="32" height="29" src="Images/Freecodecamp.jpg"> </a>
+<a href="https://www.codechef.com/users/swapnil_81" target="_blank" rel="noopener noreferrer"> 
+<img width="32" height="29" src="Images/Code Chef.png"> </a>
 <a href="https://medium.com/@swapnilsinha81" target="_blank" rel="noopener noreferrer">
-<img width="27" height="29" src="Images/Medium Icon.png"> </a>
+<img width="29" height="29" src="Images/Medium Icon.png"> </a>

@@ -14,6 +14,7 @@
 <img alt="css" width="45" height="44" src="Images/css-3.png">
 <img alt="C++" width="40" height="44" src="Images/C++.png ">
 <img alt="python" width="40" height="44" src="Images/python.png">
+<img alt="linux" width="40" height="44" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png">
 <img alt="javascript" width="40" height="44" src="Images/js.png">
 <img alt="bootstrap" width="40" height="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
 <img alt="Git" width="45" height="44" src="Images/Git.png">
@@ -30,6 +31,7 @@
 <img alt="Figma" width="45" height="44" src="Images/Figma.png">
 <img alt="Photoshop" width="45" height="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
 <img alt="Heroku" width="45" height="44" src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667">
+<img alt="Oracle" width="45" height="44" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png?20150209215936">
 </p>
 <br>
 

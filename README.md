@@ -12,7 +12,7 @@
 <img alt="c programming" width="38px" height="44" src="Images/C Logo.png">
 <img alt="html" width="45" height="44" src="Images/html.png">
 <img alt="css" width="45" height="44" src="Images/css-3.png">
-<img alt="C++" width="40" height="44" src="Images/C++.png ">
+<img alt="C++" width="37" height="44" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png">
 <img alt="python" width="40" height="44" src="Images/python.png">
 <img alt="linux" width="40" height="44" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png">
 <img alt="javascript" width="40" height="44" src="Images/js.png">

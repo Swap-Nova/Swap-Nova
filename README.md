@@ -81,6 +81,6 @@
 <a href="https://www.codechef.com/users/swapnil_81" target="_blank" rel="noopener noreferrer"> 
 <img width="32" height="29" src="Images/Code Chef.png"> </a>
 <a href="https://auth.geeksforgeeks.org/user/swapnilsinha81/practice/" target="_blank" rel="noopener noreferrer"> 
-<img width="30" height="29" src="https://pbs.twimg.com/profile_images/1476085383469445124/1ZRVN-QB_400x400.jpg"> </a>
+<img width="30" height="29" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFnv4gI-bzgIw/company-logo_200_200/0/1640713604210?e=1668038400&v=beta&t=ZWaX8GcWdTxqDzAUaA1d77PnV5w3hGg8v2NKv-9f-hk"> </a>
 <a href="https://medium.com/@swapnilsinha81" target="_blank" rel="noopener noreferrer">
 <img width="29" height="29" src="Images/Medium Icon.png"> </a>

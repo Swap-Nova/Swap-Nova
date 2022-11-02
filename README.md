@@ -35,6 +35,14 @@
 </p>
 <br>
 
+<h2 align="center">🤖 Hacktoberfest Badges</h2>
+<p align="center">
+  <a href="https://holopin.me/quantumbolt81">
+  <img src="https://holopin.me/quantumbolt81">
+  </a>
+</p>
+<br>
+
 <!-- GitHub Streak -->
 <p align="center">
 <a href="http://github-readme-streak-stats.herokuapp.com/?user=swap-nova&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D">

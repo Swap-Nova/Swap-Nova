@@ -1,94 +1,148 @@
-## Hey there, I'm Swapnil | First Thinker 🖖
-### 🚀 "Keep walking the walk, one step at a time" 
+<h1 align="left"> Hey there, I'm Swapnil Sinha 🖖 </h1>
 
 - ⌛ I'm presently working on enhancing my skills as a Developer.
-- 🧩 I'm also learning Data Structures side by side.
-- ☕ Fun Fact: I love to code while drinking coffee & listening to music 🎵  
-- 🎳 Endeavour to be a full stack developer & to build projects that can make world a better place.
+- 🧩 I'm learning to be competent with Data Structures.
+- ☕ Fun Fact: I love to code while drinking coffee & listening to music 🎵 
+- 💬 Ask me about Python, JavaScript, React, Express, NodeJS, C++
 - 📪 You can reach me through: swapnilsinha81@gmail.com
 
-<h2 align="center"> 💻 Technologies </h2>
-<p align="center">
-<img alt="c programming" width="38px" height="44" src="Images/C Logo.png">
-<img alt="html" width="45" height="44" src="Images/html.png">
-<img alt="css" width="45" height="44" src="Images/css-3.png">
-<img alt="C++" width="37" height="44" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png">
-<img alt="python" width="40" height="44" src="Images/python.png">
-<img alt="linux" width="40" height="44" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png">
-<img alt="javascript" width="40" height="44" src="Images/js.png">
-<img alt="bootstrap" width="40" height="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-<img alt="Git" width="45" height="44" src="Images/Git.png">
-<img alt="Alexa" width="45" height="48" src="Images/Alexa.png">
-<img alt="React JS" width="42" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> 
-<img alt="Google Cloud" width="45" height="44" src="Images/Google Cloud.png">
-<img alt="Flutter" width="45" height="44" src="Images/Flutter.png">
-<img alt="Dart" width="45" height="44" src="Images/Dart.png">
-</p>
 <br>
+<!-- -------------------------------------------------------------------------------------- -->
 
-<h2 align="center">📱 Softwares </h2>
-<p align="center">
-<img alt="Figma" width="45" height="44" src="Images/Figma.png">
-<img alt="Photoshop" width="45" height="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
-<img alt="Heroku" width="45" height="44" src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667">
-<img alt="Oracle" width="45" height="44" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png?20150209215936">
-</p>
-<br>
+<h3 align="center"> 📋 Languages </h3>
+<div align="center">
+	
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<h2 align="center">🤖 Hacktoberfest Badges</h2>
-<p align="center">
-  <a href="https://holopin.me/quantumbolt81">
-  <img src="https://holopin.me/quantumbolt81">
-  </a>
-</p>
-<br>
-
-<!-- GitHub Streak -->
-<p align="center">
-<a href="http://github-readme-streak-stats.herokuapp.com/?user=swap-nova&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D">
-<img src="http://github-readme-streak-stats.herokuapp.com/?user=swap-nova&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D"></a>
-</p>
-
-<hr>
-
-## 📊 My GitHub Stats
-
-<p align="center">
-  <br>
-<!--   GitHub Stats -->
-    <a href="https://github-readme-stats.vercel.app/api?username=Swap-Nova&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="Swap-Nova's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Swap-Nova&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<!--   Top Langugages  -->
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Swap-Nova&langs_count=12&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="Swap_Nova's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swap-Nova&langs_count=12&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br>
-  </p>
-<br>
-<strong> Note: </strong> Top Langugages is only a metric of the language my public code consists of and so it does not reflect experience or skill level.
+</div>
 
 <br>
+<!-- -------------------------------------------------------------------------------------- -->
+
+<h3 align="center"> 🕸️ Web Developement </h3>
+<div align="center"
+		 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+
+</div>
+
 <br>
+<!-- -------------------------------------------------------------------------------------- -->
 
-<!-- GitHub Activity Graph -->
-<p align="center">
-<a href="https://activity-graph.herokuapp.com/graph?username=Swap-Nova&theme=react-dark">
-<img src="https://activity-graph.herokuapp.com/graph?username=Swap-Nova&theme=react-dark"> </a>
+<h3 align="center"> ☁️ Hosting </h3>
+<div align="center">
+	
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+	
+</div>
 
-</p>
+<br>
+<!-- -------------------------------------------------------------------------------------- -->
 
-## 🤍 Views & Followers
-<a href="https://komarev.com/ghpvc/?username=Swap-Nova&label=PROFILE+VIEWS&style=flat-square&color=red">
-<img src="https://komarev.com/ghpvc/?username=Swap-Nova&label=PROFILE+VIEWS&style=flat-square&color=red"> </a>
-<a href="https://img.shields.io/github/followers/Swap-Nova?label=followers&style=social">
-<img src="https://img.shields.io/github/followers/Swap-Nova?label=followers&style=social"> </a>
+<h3 align="center"> 💾 Databases </h3>
+<div align="center">
+	
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+	
+</div>
 
+<br>
+<!-- -------------------------------------------------------------------------------------- -->
 
-### ❄️ Reach Out to Me</h2>
-<a href="https://www.linkedin.com/in/swapnil-sinha-07392b1b7/" target="_blank" rel="noopener noreferrer" > 
-<img width="27" height="29" src="Images/Linkedin Icon.png"> </a>
-<a href="https://www.freecodecamp.org/supernova_81" target="_blank" rel="noopener noreferrer"> 
-<img width="34" height="29" src="Images/Freecodecamp.jpg"> </a>
-<a href="https://www.codechef.com/users/swapnil_81" target="_blank" rel="noopener noreferrer"> 
-<img width="32" height="29" src="Images/Code Chef.png"> </a>
-<a href="https://auth.geeksforgeeks.org/user/swapnilsinha81/practice/" target="_blank" rel="noopener noreferrer"> 
-<img width="30" height="29" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFnv4gI-bzgIw/company-logo_200_200/0/1640713604210?e=1668038400&v=beta&t=ZWaX8GcWdTxqDzAUaA1d77PnV5w3hGg8v2NKv-9f-hk"> </a>
-<a href="https://medium.com/@swapnilsinha81" target="_blank" rel="noopener noreferrer">
-<img width="29" height="29" src="Images/Medium Icon.png"> </a>
+<h3 align="center"> 🕓 Version Control </h3>
+<div align="center">
+	
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+	
+</div>
+
+<br>
+<!-- -------------------------------------------------------------------------------------- -->
+
+<h3 align="center"> 📛 Hacktoberfest Badges </h3>
+<div align="center">
+	
+[![An image of @quantumbolt81's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/quantumbolt81)](https://holopin.io/@quantumbolt81)
+
+</div>
+
+<br>
+<!-- -------------------------------------------------------------------------------------- -->
+
+<div align="center">
+    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Swapnil Sinha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Swap-Nova&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</div>
+
+<br>
+<!-- -------------------------------------------------------------------------------------- -->
+
+<h3 align="center"> 📊 GitHub Stats </h3>
+<div align="center">
+	
+<a href="https://github.com/Swap-Nova/github-readme-stats"><img alt="Swap-Nova's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Swap-Nova&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/Swap-Nova/github-readme-stats"><img alt="Swap-Nova's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swap-Nova&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+</div>
+
+<br>
+<!-- -------------------------------------------------------------------------------------- -->
+
+- Note: Top Langugages is only a metric of the language my public code consists of and so it does not reflect experience or skill level.
+
+<br>
+<!-- -------------------------------------------------------------------------------------- -->
+
+[![Swap-Nova's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Swap-Nova&theme=react-dark&hide_border=true)](https://github.com/Swap-Nova/github-readme-activity-graph)
+
+<br>
+<!-- -------------------------------------------------------------------------------------- -->
+
+<h3 align="left"> ♣︎ Reach Out to Me </h3>
+<div align="left">
+
+<a href="https://medium.com/@swapnilsinha81"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+<a href="https://hashnode.com/@SwapNova"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/swapnil-sinha-07392b1b7/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+	
+</div>
+
+<br>
+<!-- -------------------------------------------------------------------------------------- -->
+
+<h3 align="left"> ䷐ Views and Followers </h3>
+<div align="left">
+	
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Swap-Nova">
+</a>
+<a href="https://github.com/Swap-Nova?tab=followers">
+	<img src="https://img.shields.io/github/followers/Swap-Nova?label=Followers&style=social" alt="GitHub Badge">
+</a>
+	
+</div>
+
+<br>
+<!-- -------------------------------------------------------------------------------------- -->

@@ -91,9 +91,9 @@
 <!-- -------------------------------------------------------------------------------------- -->
 
 <div align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Swapnil Sinha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Swap-Nova&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swap-Nova&theme=black-ice)](https://github.com/DenverCoder1/github-readme-streak-stats)
+	
 </div>
 
 <br>

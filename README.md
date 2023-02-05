@@ -94,7 +94,7 @@
 <div align="center">
 	
 <a href="https://github.com/Swap-Nova/github-readme-stats"><img alt="Swap-Nova's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Swap-Nova&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/Swap-Nova/github-readme-stats"><img alt="Swap-Nova's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swap-Nova&langs_count=12&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/Swap-Nova/github-readme-stats"><img alt="Swap-Nova's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swap-Nova&langs_count=12&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 </div>
 

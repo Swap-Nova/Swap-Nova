@@ -37,8 +37,8 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 
 </div>
 
@@ -50,6 +50,7 @@
 	
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 	
 </div>
@@ -60,20 +61,10 @@
 <h3 align="center"> 💾 Databases </h3>
 <div align="center">
 	
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-	
-</div>
-
-<br>
-<!-- -------------------------------------------------------------------------------------- -->
-
-<h3 align="center"> 🕓 Version Control </h3>
-<div align="center">
-	
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 	
 </div>
 
@@ -103,7 +94,7 @@
 <div align="center">
 	
 <a href="https://github.com/Swap-Nova/github-readme-stats"><img alt="Swap-Nova's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Swap-Nova&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/Swap-Nova/github-readme-stats"><img alt="Swap-Nova's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swap-Nova&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/Swap-Nova/github-readme-stats"><img alt="Swap-Nova's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swap-Nova&langs_count=12&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 </div>
 

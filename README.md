@@ -52,6 +52,7 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 	
 </div>
 
@@ -94,19 +95,19 @@
 <div align="center">
 	
 <a href="https://github.com/Swap-Nova/github-readme-stats"><img alt="Swap-Nova's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Swap-Nova&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/Swap-Nova/github-readme-stats"><img alt="Swap-Nova's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swap-Nova&langs_count=20&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/Swap-Nova/github-readme-stats"><img alt="Swap-Nova's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swap-Nova&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 </div>
 
 <br>
 <!-- -------------------------------------------------------------------------------------- -->
 
-- Note: Top Langugages is only a metric of the language my public code consists of and so it does not reflect experience or skill level.
+- Note: Top Languages is only a metric of the language my public code consists of and so it does not reflect experience or skill level.
 
 <br>
 <!-- -------------------------------------------------------------------------------------- -->
 
-[![Swap-Nova's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Swap-Nova&theme=react-dark&hide_border=true)](https://github.com/Swap-Nova/github-readme-activity-graph)
+[![Swap-Nova's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Swap-Nova&theme=react-dark&hide_border=true&area=true)](https://github.com/Swap-Nova/github-readme-activity-graph)
 
 <br>
 <!-- -------------------------------------------------------------------------------------- -->
